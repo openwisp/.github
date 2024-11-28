@@ -6,6 +6,6 @@
   <samp>
     <a href="https://openwisp.org/"><b>About</b></a>
     <a href="https://openwisp.org/demo/"><b>Demo</b></a>
-    <a href="https://openwisp.io/docs/dev/"><b>Documentation</b></a>
+    <a href="https://openwisp.io/docs/stable/"><b>Documentation</b></a>
   </samp>
 </p>
